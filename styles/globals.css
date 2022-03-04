@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .option {
+    @apply cursor-pointer rounded-lg p-2 transition hover:bg-gray-100;
+  }
+}
