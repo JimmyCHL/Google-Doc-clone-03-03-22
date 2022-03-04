@@ -22,7 +22,8 @@
     "pages/_app.jsx",
     "pages/index.jsx",
     "pages/*.jsx",
-    "pages/*.js"
+    "pages/*.js",
+    "decs.d.ts"
   ],
   "exclude": ["node_modules"]
 }
